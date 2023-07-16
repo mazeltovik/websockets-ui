@@ -1,3 +1,11 @@
+# How to use websocket server
+1. Go to folder ws, like this websockets-ui\ws
+2. Install all dependencies npm run install command
+3. Run npm run start:dev, this command launch websocket server on port 3000
+4. Go to websockets-ui folder, install all dependencies and use this command to start client server npm run start:dev
+5. Play, but this implementation have bugs, dont worry, they dont burn your pc
+
+
 # RSSchool NodeJS websocket task template
 > Static http server and base task packages. 
 > By default WebSocket client tries to connect to the 3000 port.
